@@ -5,7 +5,9 @@ Requirements
 
 Python 3
 
-fastai library
+keras library
+
+Tensflow 2.0
 
 jupyter Notebook
 
